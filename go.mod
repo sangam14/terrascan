@@ -33,7 +33,7 @@ require (
 	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.6.6
-	github.com/hashicorp/go-version v1.2.1
+	github.com/hashicorp/go-version v1.9.0
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/hcl/v2 v2.10.1
 	github.com/hashicorp/terraform v0.15.3
